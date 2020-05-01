@@ -8,3 +8,5 @@ int mul(int x, int y){
 	return x*y;
 }
 testing in master branch
+test line
+Git Merge Conflict Resolved. Done!!!
